@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harun Serkan Metin</h1>
-<h3 align="center">A Computer Sciene Strudent from Turkey/Ankara</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunsmetin&label=Profile%20views&color=0e75b6&style=flat" alt="harunsmetin" /> </p>
+<h3 align="center">A Computer Sciene Strudent from Turkey/Ankara</h3>
+
 
 - 🔭 I’m currently working on [Rental System Project with React](https://github.com/HarunSMetin/Vehicle-Rental-System)
 
