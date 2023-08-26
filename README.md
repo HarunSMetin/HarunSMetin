@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunsmetin&label=Profile%20views&color=0e75b6&style=flat" alt="harunsmetin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harunsmetin" alt="harunsmetin" /></a> </p>
-
 - 🔭 I’m currently working on [Rental System Project with React](https://github.com/HarunSMetin/Vehicle-Rental-System)
 
 - 🌱 I’m currently learning **React, PHP**
