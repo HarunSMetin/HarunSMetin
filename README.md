@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harunsmetin&label=Profile%20views&color=0e75b6&style=flat" alt="harunsmetin" /> </p>
 
-- 🔭 I’m currently working on [Rental System Project with React](https://github.com/HarunSMetin/Vehicle-Rental-System)
-
 - 🌱 I’m currently learning **React, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarunSMetin?tab=repositories](https://github.com/HarunSMetin?tab=repositories)
