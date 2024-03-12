@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harunsmetin&label=Profile%20views&color=0e75b6&style=flat" alt="harunsmetin" /> </p>
 
-- 🌱 I’m currently learning **React, PHP**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarunSMetin?tab=repositories](https://github.com/HarunSMetin?tab=repositories)
 
-- 📫 How to reach me **harunmetin19@gmail.com**
+- 📫 How to reach me **harun.serkan.metin@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
