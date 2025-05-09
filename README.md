@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harun Serkan Metin</h1>
-<h3 align="center">A Computer Sciene Strudent from Turkey/Ankara</h3>
+<h1 align="center">Hi 👋, I'm Harun Serkan Metin</h1> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harunsmetin&label=Profile%20views&color=0e75b6&style=flat" alt="harunsmetin" /> </p>
 
